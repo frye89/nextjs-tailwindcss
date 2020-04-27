@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className="text-4xl pt-32">
           Welcome to{" "}
           <span className="text-blue-700 font-semibold">Next.js</span>, with{" "}
-          <span className="text-green-700 font-semibold">Tailwindcss!</span>
+          <span className="text-green-700 font-semibold">Tailwindcss</span>!
         </h1>
       </main>
     </div>
