@@ -6,6 +6,7 @@ export default function Home() {
       <Head>
         <title>Create Next App & Tailwindcss</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="Description" content="Create Next App & Tailwindcss" />
       </Head>
 
       <main>
